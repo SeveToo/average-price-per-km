@@ -1,24 +1,24 @@
 <div align="center" id="top"> 
   
 <h1 align="center">Fuel Price Calculator</h1>
-  <a target="_blank" href="https://sevetoo.github.io/Srednia-cena-za-km/">
+  <a target="_blank" href="https://sevetoo.github.io/srednia-cena-za-km/">
   <img src="./preview.png" alt="Fuel Price Calculator" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/Srednia-cena-za-km/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/srednia-cena-za-km/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/Srednia-cena-za-km?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/srednia-cena-za-km?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/Srednia-cena-za-km?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/srednia-cena-za-km?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/Srednia-cena-za-km?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/srednia-cena-za-km?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/Srednia-cena-za-km?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/srednia-cena-za-km?color=56BEB8">
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/Srednia-cena-za-km/
+https://sevetoo.github.io/srednia-cena-za-km/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/Srednia-cena-za-km/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/srednia-cena-za-km/" >click link</a> )
 
 ## 😎 Made by
 
